@@ -12,7 +12,6 @@ I. Contents
 - LearnedGraphs.npy
 - Party_info.csv
 - Train.csv
-- README.txt
 
 II. Code Information
 
