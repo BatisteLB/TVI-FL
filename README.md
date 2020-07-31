@@ -4,6 +4,8 @@ This repository contains code that implements the Time-Varying Ising model with 
 
 Learning the piece-wise constant graph structure of a varying Ising model. Batiste Le Bars, Pierre Humbert, Argyris Kalogeratos and Nicolas Vayatis. In Proceedings of the 37th International Conference on Machine Learning (ICML), 2020.
 
+The paper is available at https://proceedings.icml.cc/static/paper_files/icml/2020/2583-Paper.pdf
+
 I. Contents
 
 - ICML_Experiment.ipynb
